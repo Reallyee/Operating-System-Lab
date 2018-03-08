@@ -1,6 +1,6 @@
 # Lecture One
 
-##Command Line
+## Command Line
 #### echo
 - display a line of text
 	- echo "hello cs302"

@@ -1,4 +1,5 @@
 # Lecture One
+
 ##Command Line
 #### echo
 - display a line of text

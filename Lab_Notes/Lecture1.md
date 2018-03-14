@@ -34,6 +34,12 @@
 #### | (pipe operator)
 - excute the sencond command result when excute the first line
 #### > standard output stream 
+#### gcc
+- -c compile or assemble the source files, but do not link
+- -Sstop after the stage of compilation proper;do not assemble
+- -E stop after the preprocessing stage; do not run the compiler proper
+- -o filename : place output in file
+- if no parameters, gcc will do all things and output an execute file a.out
 ## File permission
 ** drwxrwxrwx**
 the first bit : file type 

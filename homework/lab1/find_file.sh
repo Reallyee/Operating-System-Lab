@@ -7,10 +7,10 @@ fi
 cd $HOME/lab1
 if [ ! -d "$HOME/lab1/11510086" ];then
         cd $HOME/lab1
-        mkdir 11510086
+        mkdir studentID
 fi
-if [ ! -d "$HOME/lab1/11510086/file.info" ];then
-        cd $HOME/lab1/11510086
+if [ ! -d "$HOME/lab1/studentID/file.info" ];then
+        cd $HOME/lab1/studentID
         touch file.info
 fi 
 directory_count=0

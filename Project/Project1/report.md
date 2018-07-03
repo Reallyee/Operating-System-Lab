@@ -403,13 +403,5 @@ in thread.c:
 
 #### Result:
 
-Result for test make check:
-
-![018-05-02 18-45-24屏幕截](C:\Users\THINKPAD\Desktop\OS_project1_毛玉莲_11510086_周宸宇_11510374\report\2018-05-02 18-45-24屏幕截图.png)
-
-Result for test point alarm-priority:
-
-![](C:\Users\THINKPAD\Desktop\OS_project1_毛玉莲_11510086_周宸宇_11510374\report\tu.png)
-
 
 

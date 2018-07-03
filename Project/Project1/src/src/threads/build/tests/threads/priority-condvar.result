@@ -1,0 +1,5 @@
+FAIL
+Kernel panic in run: PANIC at ../../lib/kernel/list.c:281 in list_front(): assertion `!list_empty (list)' failed.
+Call stack: 0xc002787c
+Translation of call stack:
+0xc002787c: debug_panic (.../../lib/kernel/debug.c:38)
